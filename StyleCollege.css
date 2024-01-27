@@ -1,0 +1,22 @@
+h1{
+    color:black ;
+    text-decoration: underline;
+}
+
+.bar{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    margin-left: 1rem;
+}
+
+ul{
+   width: fit-content;
+}
+
+ul li:hover{
+    background-color: rgba(0,255,0,0.4);
+    box-shadow: 0px 0px 1px ;
+}
